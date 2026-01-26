@@ -156,3 +156,6 @@ This project demonstrates how exploratory data analysis and visualization can un
 **Vimala Upputuru**
 **Aspiring Data Analyst**
 **Skills: Python | SQL | Excel | Data Analysis | EDA**
+ **GitHub: https://github.com/vimalau94**
+ **LinkedIn: https://www.linkedin.com/in/vimala-upputuru-5b66aa336**
+ **Email: vimalau9413@gmail.com**
